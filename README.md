@@ -5,4 +5,4 @@
 
 
 ## Вики
-- **[WIKI](Wiki/Wiki.md)**
+- **[WIKI](https://github.com/voodraizer/QTE_Exporter/wiki)**
