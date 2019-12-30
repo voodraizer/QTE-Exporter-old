@@ -1,0 +1,29 @@
+﻿<data>
+  <slots>
+    <slot type="diffuse" selected="true" suffix="_df" fill="128;128;128" allowSharpen="true" downscale="1" tiffPres="">
+		<channel type="a" source="alpha" fill=""></channel>
+	</slot>
+	<slot type="normal" selected="false" suffix="_nm" fill="128;128;255" allowSharpen="false" downscale="2" tiffPres="">
+		<channel type="a" source="glossiness" fill=""></channel>
+	</slot>
+	<slot type="alpha" selected="false" suffix="_alpha" fill="255;255;255" allowSharpen="false" downscale="1" tiffPres="">
+	</slot>
+	<slot type="mask_RGB" selected="false" suffix="_mask" fill="128;128;128" allowSharpen="true" downscale="1" tiffPres="">
+		<channel type="r" source="r" fill=""></channel>
+		<channel type="g" source="g" fill=""></channel>
+		<channel type="b" source="b" fill=""></channel>
+	</slot>
+  </slots>
+  <options>
+    <outputtype value="tga"/>
+    <nonpow2 value="true"/>
+    <sharpencontrast value="false"/>
+    <disablecrytiff value="false"/>
+    <copytoexportpath value="false"/>
+	<copytolocalpath value="true"/>
+  </options>
+  <gui>
+	<compactslotsize value="true"/>
+	<lastprojectpath path=""/>
+  </gui>
+</data>

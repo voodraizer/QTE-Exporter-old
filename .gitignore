@@ -1,0 +1,21 @@
+# Asset files.
+*.pak
+*.caf
+
+
+# Large assets.
+*.tif
+*.tiff
+*.psd
+
+
+# Temporary files.
+*.log
+
+
+# Directories.
+/__old*/
+/Tools/rc/*
+/ScriptUI Dialog Builder-win32-x64/
+*.ilk
+*.pdb
